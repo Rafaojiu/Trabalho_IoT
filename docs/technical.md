@@ -124,7 +124,7 @@ Este projeto implementa um sistema IoT completo para monitoramento de fermentaç
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/ankom-rf-iot.git
+git clone https://github.com/Rafaojiu/Trabalho_IoT
 cd ankom-rf-iot
 ```
 
@@ -282,24 +282,6 @@ Onde:
 - Adicione testes para novas funcionalidades
 - Atualize a documentação conforme necessário
 - Mantenha o código limpo e comentado
-
-## 📄 Licença
-
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
-## 🆘 Suporte
-
-Para suporte e dúvidas:
-- **Email**: suporte@ankom-rf-iot.com
-- **Issues**: Use a aba Issues do GitHub
-- **Documentação**: Consulte os arquivos em `docs/`
-
-## 📞 Contato
-
-**Equipe de Desenvolvimento ANKOM RF IoT**
-- **Email**: contato@ankom-rf-iot.com
-- **Website**: https://ankom-rf-iot.com
-- **LinkedIn**: [ANKOM RF IoT](https://linkedin.com/company/ankom-rf-iot)
 
 ---
 

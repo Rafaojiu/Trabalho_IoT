@@ -344,35 +344,8 @@ Acesse: **Configurações > Exportação**
    - Monitore uso de memória
    - Otimize configurações conforme necessário
 
-## 📞 Suporte e Contato
-
-### Canais de Suporte
-
-| Canal | Disponibilidade | Tempo de Resposta |
-|-------|----------------|-------------------|
-| **Email** | 24/7 | 24-48 horas |
-| **Telefone** | Seg-Sex 9h-18h | Imediato |
-| **Chat Online** | Seg-Sex 8h-20h | 5-15 minutos |
-| **Tickets** | 24/7 | 2-4 horas |
-
-### Informações de Contato
-
-- **📧 Email**: suporte@ankom-rf-iot.com
-- **📞 Telefone**: +55 (11) 1234-5678
-- **💬 WhatsApp**: +55 (11) 98765-4321
-- **🌐 Website**: https://ankom-rf-iot.com/support
-- **📱 App Mobile**: Disponível em breve
-
-### Recursos de Autoajuda
-
-1. **Base de Conhecimento**: https://ankom-rf-iot.com/kb
-2. **Vídeos Tutoriais**: https://youtube.com/ankom-rf-iot
-3. **FAQ**: Perguntas frequentes respondidas
-4. **Fórum**: Comunidade de usuários
-5. **Blog**: Dicas e atualizações
-
 ---
 
 **⚠️ IMPORTANTE**: Este manual é atualizado regularmente. Sempre verifique a versão mais recente em nosso website ou entre em contato com o suporte para obter a documentação mais atualizada.
 
-**📄 Versão**: 1.0.0 | **📅 Data**: Janeiro 2024 | **✍️ Autor**: Equipe ANKOM RF IoT
+**📄 Versão**: 1.0.0 | **📅 Data**: Novembro de 2025 | **✍️ Autor**:  Raphael Rodrigues e Rodrigo Luiz

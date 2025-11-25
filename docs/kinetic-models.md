@@ -551,4 +551,4 @@ class KineticAnalysis {
 
 ---
 
-**📄 Versão**: 1.0.0 | **📅 Data**: Janeiro 2024 | **✍️ Autor**: Equipe ANKOM RF IoT
+**📄 Versão**: 1.0.0 | **📅 Data**: Novembro de 2025 | **✍️ Autor**:  Raphael Rodrigues e Rodrigo Luiz

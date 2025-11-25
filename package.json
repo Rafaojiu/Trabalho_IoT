@@ -1,7 +1,7 @@
 {
-  "name": "ankom-rf-iot-system",
+  "name": "rr-rural-fermentation-system",
   "version": "1.0.0",
-  "description": "Sistema IoT para monitoramento de fermentação ruminal in vitro baseado no ANKOM RF",
+  "description": "Sistema RR Rural Fermentation para monitoramento de fermentação ruminal in vitro baseado no ANKOM RF",
   "main": "backend/server.js",
   "scripts": {
     "start": "concurrently \"npm run backend\" \"npm run simulator\" \"npm run dashboard\"",
@@ -19,7 +19,7 @@
     "MQTT",
     "simulação"
   ],
-  "author": "Sistema ANKOM RF IoT",
+  "author": "Raphael Rodrigues, Rodrigo Luiz",
   "license": "MIT",
   "devDependencies": {
     "concurrently": "^8.2.2"
