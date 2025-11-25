@@ -1,0 +1,5 @@
+timestamp,flask_id,assay_id,pressure_abs,temperature,pressure_std,production_rate,relief_count
+2025-11-10T02:04:25Z,1,ensaio_001,0.88,38.5,0.88,0,0
+2025-11-10T02:04:25Z,2,ensaio_001,0.87,39.7,0.87,0,0
+2025-11-10T02:04:25Z,3,ensaio_001,0.87,39.1,0.87,0,0
+2025-11-10T02:04:25Z,4,ensaio_001,0.87,39.6,0.87,0,0

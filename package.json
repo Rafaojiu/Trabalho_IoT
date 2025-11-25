@@ -1,0 +1,33 @@
+{
+  "name": "ankom-rf-iot-system",
+  "version": "1.0.0",
+  "description": "Sistema IoT para monitoramento de fermentação ruminal in vitro baseado no ANKOM RF",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "concurrently \"npm run backend\" \"npm run simulator\" \"npm run dashboard\"",
+    "backend": "cd backend && npm start",
+    "simulator": "cd simulator && python simulator.py",
+    "dashboard": "cd dashboard && npm start",
+    "setup": "npm install && cd backend && npm install && cd ../dashboard && npm install",
+    "test": "cd backend && npm test && cd ../dashboard && npm test"
+  },
+  "keywords": [
+    "IoT",
+    "ANKOM-RF",
+    "fermentação-ruminal",
+    "monitoramento",
+    "MQTT",
+    "simulação"
+  ],
+  "author": "Sistema ANKOM RF IoT",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "aedes": "^0.51.3"
+  }
+}

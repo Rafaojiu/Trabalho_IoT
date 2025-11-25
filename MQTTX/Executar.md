@@ -1,0 +1,2 @@
+iniciar 
+python simulator_4frascos_rapido.py

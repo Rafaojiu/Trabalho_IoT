@@ -1,0 +1,12 @@
+info: 🚀 Servidor ANKOM RF rodando na porta 3000 {"service":"ankom-rf-backend","timestamp":"2025-11-08T19:35:30.977Z"}
+info: 📡 Conectando ao broker MQTT em localhost:1883 {"service":"ankom-rf-backend","timestamp":"2025-11-08T19:35:30.984Z"}
+info: Conectado ao banco de dados SQLite {"service":"ankom-rf-backend","timestamp":"2025-11-08T19:35:30.994Z"}
+info: Tabelas do banco de dados criadas com sucesso {"service":"ankom-rf-backend","timestamp":"2025-11-08T19:35:31.001Z"}
+info: Conectado ao broker MQTT em localhost:1883 {"service":"ankom-rf-backend","timestamp":"2025-11-08T19:35:31.055Z"}
+info: Inscrito em: rumen/+/+/telemetry {"service":"ankom-rf-backend","timestamp":"2025-11-08T19:35:31.074Z"}
+info: Inscrito em: rumen/+/+/alert {"service":"ankom-rf-backend","timestamp":"2025-11-08T19:35:31.076Z"}
+info: Inscrito em: rumen/+/+/config {"service":"ankom-rf-backend","timestamp":"2025-11-08T19:35:31.077Z"}
+info: Executando verificação de integridade... {"service":"ankom-rf-backend","timestamp":"2025-11-08T19:40:00.807Z"}
+info: Ensaios ativos: {"service":"ankom-rf-backend","timestamp":"2025-11-08T19:40:00.810Z"}
+info: Executando verificação de integridade... {"service":"ankom-rf-backend","timestamp":"2025-11-08T19:45:00.877Z"}
+info: Ensaios ativos: {"service":"ankom-rf-backend","timestamp":"2025-11-08T19:45:00.879Z"}

@@ -1,0 +1,7 @@
+# requirements.txt para simulador Python
+# Atualizado para compatibilidade com Python 3.13
+numpy>=2.3.0
+scipy>=1.16.0
+pandas>=2.3.0
+paho-mqtt>=2.0.0
+python-dotenv>=1.0.0
